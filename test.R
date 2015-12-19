@@ -2,7 +2,8 @@
 
 x <- 1:10
 y <- 1:10
-z <- 1:10
+
+# comment here
 
 dat <- data.frame(x = x, y = y)
 
