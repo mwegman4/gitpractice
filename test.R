@@ -13,6 +13,4 @@ library(ggvis)
 dat %>%
   ggvis(~y,~x) %>%
   layer_points()
-?ggvis
-
 
