@@ -1,4 +1,5 @@
-
+# URL: http://github.com/hadley/dplyr
+# BugReports: http://github.com/hadley/dplyr/issues
 
 x <- 1:10
 y <- 1:10
